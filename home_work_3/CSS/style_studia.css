@@ -1,0 +1,286 @@
+a{
+  text-decoration: none;
+}
+.WebStudio {
+  text-decoration: none;
+
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+
+  color: #2196f3;
+}
+.logo_2_element {
+  color: rgb(0, 0, 1);
+}
+.menu_nav {
+  position: absolute;
+  width: 294px;
+  height: 16px;
+  left: 453px;
+  top: 32px;
+  display: flex;
+  padding: 0px 0px 0px 35px;
+}
+ul {
+  list-style: none;
+}
+li {
+  padding: 0px 0px 0px 35px;
+  text-decoration: none;
+  list-style: none;
+}
+.port{
+  text-decoration: none;
+  color:#000000;
+}
+.studio {
+  color: #2196f3;
+}
+.mail {
+  position: absolute;
+  width: 135px;
+  height: 16px;
+  left: 1078px;
+  top: 32px;
+  text-decoration: none;
+  color: #2196f3;
+}
+.tel {
+  position: absolute;
+  width: 122px;
+  height: 16px;
+  left: 1263px;
+  top: 32px;
+  text-decoration: none;
+  color: #757575;
+}
+.Bg {
+  position: absolute;
+  width: 100%;
+  height: 600px;
+  left: 0px;
+  top: 80px;
+
+  background: #2f303a;
+}
+.text_Bg {
+  position: absolute;
+  width: 696px;
+  height: 120px;
+  left: 500px;
+  top: 280px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  /* or 136% */
+
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.service {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  left: 740px;
+  top: 530px;
+
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+.text_service {
+  position: relative;
+  left: 20px;
+  text-decoration: none;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+
+  color: #ffffff;
+}
+.peculiarities{
+  position: absolute;
+  width: 1170px;
+  height: 101px;
+  left: 255px;
+  top: 774px;
+  display: flex;
+  justify-self: center;
+  align-items: center;
+}
+.text_bottom_pecu{
+  font-weight: 400;
+}
+.top_pecu{
+  font-weight: 900;
+}
+.What_are_we_doing{
+  position: absolute ;
+  
+left: 255px;
+top: 969px;
+  width: 1170px;
+  height: 386px;
+  display: flex;
+  align-items:center;
+  justify-content: space-around;
+}
+.text_what_are_we_doing{
+  position: absolute;
+width: 376px;
+height: 42px;
+left: 660px;
+top: 949px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 1000;
+font-size: 36px;
+line-height: 42px;
+letter-spacing: 0.03em;
+
+color: #212121;
+margin-bottom: 50px;
+}
+.our_team{
+  position: absolute;
+width: 1200px;
+height: 648px;
+left: 250px;
+top: 1449px;
+display: flex;
+justify-content: space-around;
+align-items:center;
+}
+.Our_team{
+  position: absolute;
+width: 264px;
+height: 42px;
+left: 700px;
+top: 1500px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+}
+.photo_team{
+  width: 270px;
+height: 260px;
+}
+.sub_team{
+width: 270px;
+height: 368px;
+
+background: #FFFFFF;
+
+box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+border-radius: 0px 0px 4px 4px;
+}
+.name_team{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  font-size: 20px;
+}
+.work_team{
+  display: flex;
+  justify-content: center;
+  align-items:flex-end;
+  font-weight: 200;
+  font-size: 16px;
+  line-height: 19px;
+  color: #757575;
+}
+footer{
+  position: absolute;
+  top: 2097px;
+  width: 100%;
+  height: 252px;
+  background-color:#2F303A ;
+  margin: 0px;
+  text-decoration: none;
+
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+footer {
+  width: 100%;
+  height: 252px;
+  background: #2F303A;
+  position: absolute;
+  top: 2097px;
+}
+.WebStudio_footer {
+  text-decoration: none;
+  position: absolute;
+  left: 215px;
+  top: 60px;
+  font-weight: 700;
+  font-family: 'Raleway';
+  font-size: 26px;
+  line-height: 31px;
+  color: #2196F3;
+  transition: 0.5s;
+}
+.logo_2_element_footer {
+  color: white;
+}
+.mail_tel_footer {
+  position: absolute;
+  left: 215px;
+  top: 120px;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.location {
+  color: white;
+  font-weight: 400;
+  font-size: 14px;
+}
+.mail_footer {
+  color: #757575;
+  font-weight: 400;
+  font-size: 14px;
+  transition: 0.5s;
+}
+.tel_footer {
+  color:#757575;
+  font-weight: 400;
+  font-size: 14px;
+  transition: 0.5s;
+}
+
